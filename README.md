@@ -1,2 +1,0 @@
-# blckpwny.github.io
-about
