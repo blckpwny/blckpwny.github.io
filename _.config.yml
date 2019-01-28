@@ -1,0 +1,8 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - writeups/2018/35C3/README.md
+  - writeups/2019/FireShell/README.md
